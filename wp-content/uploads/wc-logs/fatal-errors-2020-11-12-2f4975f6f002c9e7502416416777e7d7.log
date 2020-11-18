@@ -1,0 +1,128 @@
+2020-11-12T17:18:02+00:00 CRITICAL Uncaught Error: Call to undefined function lang() in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php:29
+Stack trace:
+#0 C:\xampp2\htdocs\pro-gress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp2\htdocs\pro-gress\wp-blog-header.php(19): require_once('C:\\xampp2\\htdoc...')
+#2 C:\xampp2\htdocs\pro-gress\index.php(17): require('C:\\xampp2\\htdoc...')
+#3 {main}
+  thrown in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php on line 29
+
+2020-11-12T17:18:06+00:00 CRITICAL Uncaught Error: Call to undefined function lang() in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php:29
+Stack trace:
+#0 C:\xampp2\htdocs\pro-gress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp2\htdocs\pro-gress\wp-blog-header.php(19): require_once('C:\\xampp2\\htdoc...')
+#2 C:\xampp2\htdocs\pro-gress\index.php(17): require('C:\\xampp2\\htdoc...')
+#3 {main}
+  thrown in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php on line 29
+
+2020-11-12T17:18:06+00:00 CRITICAL Uncaught Error: Call to undefined function lang() in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php:29
+Stack trace:
+#0 C:\xampp2\htdocs\pro-gress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp2\htdocs\pro-gress\wp-blog-header.php(19): require_once('C:\\xampp2\\htdoc...')
+#2 C:\xampp2\htdocs\pro-gress\index.php(17): require('C:\\xampp2\\htdoc...')
+#3 {main}
+  thrown in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php on line 29
+
+2020-11-12T17:18:32+00:00 CRITICAL Uncaught Error: Call to undefined function lang() in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php:29
+Stack trace:
+#0 C:\xampp2\htdocs\pro-gress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp2\htdocs\pro-gress\wp-blog-header.php(19): require_once('C:\\xampp2\\htdoc...')
+#2 C:\xampp2\htdocs\pro-gress\index.php(17): require('C:\\xampp2\\htdoc...')
+#3 {main}
+  thrown in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php on line 29
+
+2020-11-12T17:18:38+00:00 CRITICAL Uncaught Error: Call to undefined function lang() in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php:29
+Stack trace:
+#0 C:\xampp2\htdocs\pro-gress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp2\htdocs\pro-gress\wp-blog-header.php(19): require_once('C:\\xampp2\\htdoc...')
+#2 C:\xampp2\htdocs\pro-gress\index.php(17): require('C:\\xampp2\\htdoc...')
+#3 {main}
+  thrown in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php on line 29
+
+2020-11-12T17:18:38+00:00 CRITICAL Uncaught Error: Call to undefined function lang() in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php:29
+Stack trace:
+#0 C:\xampp2\htdocs\pro-gress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp2\htdocs\pro-gress\wp-blog-header.php(19): require_once('C:\\xampp2\\htdoc...')
+#2 C:\xampp2\htdocs\pro-gress\index.php(17): require('C:\\xampp2\\htdoc...')
+#3 {main}
+  thrown in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php on line 29
+
+2020-11-12T17:19:06+00:00 CRITICAL Uncaught Error: Call to undefined function lang() in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php:29
+Stack trace:
+#0 C:\xampp2\htdocs\pro-gress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp2\htdocs\pro-gress\wp-blog-header.php(19): require_once('C:\\xampp2\\htdoc...')
+#2 C:\xampp2\htdocs\pro-gress\index.php(17): require('C:\\xampp2\\htdoc...')
+#3 {main}
+  thrown in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php on line 29
+
+2020-11-12T17:19:11+00:00 CRITICAL Uncaught Error: Call to undefined function lang() in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php:29
+Stack trace:
+#0 C:\xampp2\htdocs\pro-gress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp2\htdocs\pro-gress\wp-blog-header.php(19): require_once('C:\\xampp2\\htdoc...')
+#2 C:\xampp2\htdocs\pro-gress\index.php(17): require('C:\\xampp2\\htdoc...')
+#3 {main}
+  thrown in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php on line 29
+
+2020-11-12T17:19:12+00:00 CRITICAL Uncaught Error: Call to undefined function lang() in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php:29
+Stack trace:
+#0 C:\xampp2\htdocs\pro-gress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp2\htdocs\pro-gress\wp-blog-header.php(19): require_once('C:\\xampp2\\htdoc...')
+#2 C:\xampp2\htdocs\pro-gress\index.php(17): require('C:\\xampp2\\htdoc...')
+#3 {main}
+  thrown in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php on line 29
+
+2020-11-12T17:19:34+00:00 CRITICAL Uncaught Error: Call to undefined function lang() in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php:29
+Stack trace:
+#0 C:\xampp2\htdocs\pro-gress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp2\htdocs\pro-gress\wp-blog-header.php(19): require_once('C:\\xampp2\\htdoc...')
+#2 C:\xampp2\htdocs\pro-gress\index.php(17): require('C:\\xampp2\\htdoc...')
+#3 {main}
+  thrown in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php on line 29
+
+2020-11-12T17:19:38+00:00 CRITICAL Uncaught Error: Call to undefined function lang() in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php:29
+Stack trace:
+#0 C:\xampp2\htdocs\pro-gress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp2\htdocs\pro-gress\wp-blog-header.php(19): require_once('C:\\xampp2\\htdoc...')
+#2 C:\xampp2\htdocs\pro-gress\index.php(17): require('C:\\xampp2\\htdoc...')
+#3 {main}
+  thrown in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php on line 29
+
+2020-11-12T17:19:39+00:00 CRITICAL Uncaught Error: Call to undefined function lang() in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php:29
+Stack trace:
+#0 C:\xampp2\htdocs\pro-gress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp2\htdocs\pro-gress\wp-blog-header.php(19): require_once('C:\\xampp2\\htdoc...')
+#2 C:\xampp2\htdocs\pro-gress\index.php(17): require('C:\\xampp2\\htdoc...')
+#3 {main}
+  thrown in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php on line 29
+
+2020-11-12T17:20:09+00:00 CRITICAL Uncaught Error: Call to undefined function lang() in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php:29
+Stack trace:
+#0 C:\xampp2\htdocs\pro-gress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp2\htdocs\pro-gress\wp-blog-header.php(19): require_once('C:\\xampp2\\htdoc...')
+#2 C:\xampp2\htdocs\pro-gress\index.php(17): require('C:\\xampp2\\htdoc...')
+#3 {main}
+  thrown in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php on line 29
+
+2020-11-12T17:20:13+00:00 CRITICAL Uncaught Error: Call to undefined function lang() in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php:29
+Stack trace:
+#0 C:\xampp2\htdocs\pro-gress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp2\htdocs\pro-gress\wp-blog-header.php(19): require_once('C:\\xampp2\\htdoc...')
+#2 C:\xampp2\htdocs\pro-gress\index.php(17): require('C:\\xampp2\\htdoc...')
+#3 {main}
+  thrown in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php on line 29
+
+2020-11-12T17:20:15+00:00 CRITICAL Uncaught Error: Call to undefined function lang() in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php:29
+Stack trace:
+#0 C:\xampp2\htdocs\pro-gress\wp-includes\template-loader.php(106): include()
+#1 C:\xampp2\htdocs\pro-gress\wp-blog-header.php(19): require_once('C:\\xampp2\\htdoc...')
+#2 C:\xampp2\htdocs\pro-gress\index.php(17): require('C:\\xampp2\\htdoc...')
+#3 {main}
+  thrown in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\index.php on line 29
+
+2020-11-12T20:28:52+00:00 CRITICAL Object of class WP_User could not be converted to string in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\partials\menu\sidebar__content_top.php on line 14
+
+2020-11-12T20:29:02+00:00 CRITICAL Object of class WP_User could not be converted to string in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\partials\menu\sidebar__content_top.php on line 14
+
+2020-11-12T20:45:40+00:00 CRITICAL Object of class WP_User could not be converted to string in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\partials\menu\sidebar__content_top.php on line 19
+
+2020-11-12T20:45:44+00:00 CRITICAL Object of class WP_User could not be converted to string in C:\xampp2\htdocs\pro-gress\wp-content\themes\Pro-gress\partials\menu\sidebar__content_top.php on line 19
+
