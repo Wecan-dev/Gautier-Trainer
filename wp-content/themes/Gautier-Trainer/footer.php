@@ -112,3 +112,20 @@
       </div>
     </div>
   </div>
+</div>
+
+<div class="modal modal-routine" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Dominadas</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <img src="<?php echo get_template_directory_uri();?>/assets/img/plan-workouts.jpg" alt="">
+      </div>
+    </div>
+  </div>
+</div>

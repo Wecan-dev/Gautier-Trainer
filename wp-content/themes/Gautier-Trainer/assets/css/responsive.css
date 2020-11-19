@@ -402,7 +402,9 @@
  	.form-login__btn a{
  		margin: 0 10px;
  	}
- 	
+ 	.content-index img{
+ 		width: 300px;
+ 	}
 
 }
 @media (min-width: 420px) and (max-width: 767px){
@@ -750,6 +752,9 @@
  	.form-login__btn a{
  		margin: 0 10px;
  	}
+ 	.content-index img{
+ 		width: 400px;
+ 	}
 }
 
 
@@ -780,6 +785,9 @@
 	.workout-routine::before{
 		left: 46%;
 	}
+	.content-index img{
+ 		width: 400px;
+ 	}
 }
 
 

@@ -395,7 +395,7 @@ body > section > div.sidebar__content > div.sidebar__content--content > div.vide
   color: #fff;
   font-size: 25px;
 }
-.dashboard-content__video::before{
+.dashboard-content__video > a::before{
   position: absolute;
   content: '';
   width: 100%;
@@ -1497,3 +1497,10 @@ table.tableWorkout tbody td div img, table.tableWorkout tbody td a img{
   margin-top: 40px;
 }
 
+.content-index img{
+  width: 400px;
+}
+body > section > div > div > div.sidebar__content--top.sidebar__routine.d-none.d-lg-flex > div.sidebar-top__content > div.user-sidebar__top > div.user-sidebar__top--text > div > a{
+  color: #fff;
+  margin: 0 .5rem;
+}

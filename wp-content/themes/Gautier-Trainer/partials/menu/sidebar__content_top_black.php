@@ -1,7 +1,7 @@
 <?php global $current_user; ?>
       <div class="sidebar__content--top sidebar__routine d-none d-lg-flex">
         <div class="title-sidebar__top">
-          <img src="<?php echo get_template_directory_uri();?>/assets/img/logo-gautier-desktop.png" alt=""> <p>Pro-gress</p>
+          <img src="<?php echo get_template_directory_uri();?>/assets/img/logo-gautier-desktop.png" alt=""> <p>Gautier-Trainer</p>
         </div>
         <div class="sidebar-top__content">
           <div class="user-sidebar__top">
@@ -21,12 +21,11 @@
                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
                   <a class="dropdown-item" href="<?php echo get_home_url() ?>/dashboard">Mi cuenta</a>
                   <a class="dropdown-item" href="<?php echo wp_logout_url( home_url()); ?>">Cerrar sesión</a>
-                </div>>  
+                </div>
 
                               
                 <?php }else{ ?>
-                  <a href="<?php echo get_home_url() ?>/login"><button class="" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                  Entrar </button></a>
+                  <a href="<?php echo get_home_url() ?>/login">Entra</a>
                 <?php } ?>
  
 
