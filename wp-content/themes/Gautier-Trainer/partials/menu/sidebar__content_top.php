@@ -23,4 +23,10 @@
             <a href="#"><i class="fa fa-bell-o" aria-hidden="true"></i></a>
           </div>
         </div>
+        <nav class="d-none tab-alimentacion  <?php if(is_page(31)){echo 'tab-alimentacion__display';} ?>">
+          <div class="nav nav-tabs" id="nav-tab" role="tablist">
+            <a class="nav-item nav-link active" id="tab-comida" data-toggle="tab" href="#comida-tab" role="tab" aria-controls="comida-tab" aria-selected="true">Comidas</a>
+            <a class="nav-item nav-link" id="tab-suplemento" data-toggle="tab" href="#suplemento-tab" role="tab" aria-controls="suplemento-tab" aria-selected="false">Suplementación</a>
+          </div>
+        </nav>
       </div>
