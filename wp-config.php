@@ -25,12 +25,12 @@ define( 'DB_NAME', 'db_gautier-trainer' );
 /** MySQL database username */
 
 
-define( 'DB_USER', 'admin' );
-//define( 'DB_USER', 'adminwecan' );
+//define( 'DB_USER', 'admin' );
+define( 'DB_USER', 'adminwecan' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '123456' );
-//define( 'DB_PASSWORD', '_*8gTYWqM9FHU' );
+//define( 'DB_PASSWORD', '123456' );
+define( 'DB_PASSWORD', '_*8gTYWqM9FHU' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
