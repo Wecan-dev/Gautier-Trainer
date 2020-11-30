@@ -26,6 +26,7 @@ define( 'DB_NAME', 'db_gautier-trainer' );
 
 
 define( 'DB_USER', 'admin' );
+//define( 'DB_USER', 'root' );
 //define( 'DB_USER', 'adminwecan' );
 
 /** MySQL database password */

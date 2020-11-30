@@ -406,6 +406,63 @@
  		width: 300px;
  	}
 
+
+ 	/*-- Alimentación --*/
+
+
+ 	.menu-alimentacion-resposive{
+ 		display: flex;
+ 		flex-direction: column;
+ 	}
+ 	.menu-content__notas{
+ 		background: #fff;
+ 		text-align: right;
+ 		margin-top: 40px;
+ 	}
+ 	.menu-notas__items{
+ 		border-radius: 8px;
+    	background-color: #f1f1f1;
+    	padding: 20px;
+ 	}
+ 	button{
+ 		border: none;
+ 	}
+ 	button:focus{
+ 		outline: none;
+ 	}
+ 	.menu-notas__items ul li{
+ 		text-align: start;
+ 	}
+ 	.menu-alimentacion__content{
+ 		padding: 0;
+ 	}
+ 	.nav-pills .nav-link{
+ 		padding: .4rem;
+ 	}
+ 	.nav-pills .nav-link .comida-content__menu--title{
+ 		background: #fff;
+ 	}
+ 	.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+ 		background: #fff;
+ 	}
+ 	.nav-pills .nav-link.active .comida-content__menu--title{
+ 		background: #f1f1f1;
+ 	}
+ 	.banner-alimentacion{
+ 		margin: 0;
+ 	}
+ 	.main-alimentacion__content > .tab-content>.active{
+ 		padding-top: 40px;
+ 	}
+ 	.tab-alimentacion{
+ 		position: static;
+ 		padding-top: 30px;
+ 	}
+ 	.nav-tabs{
+ 		border: none;
+ 	}
+
+
 }
 @media (min-width: 420px) and (max-width: 767px){
 	.navbar.expan::after{
@@ -754,6 +811,63 @@
  	}
  	.content-index img{
  		width: 400px;
+ 	}
+
+
+
+ 	/*-- Alimentación --*/
+
+
+ 	.menu-alimentacion-resposive{
+ 		display: flex;
+ 		flex-direction: column;
+ 	}
+ 	.menu-content__notas{
+ 		background: #fff;
+ 		text-align: right;
+ 		margin-top: 40px;
+ 	}
+ 	.menu-notas__items{
+ 		border-radius: 8px;
+    	background-color: #f1f1f1;
+    	padding: 20px;
+ 	}
+ 	button{
+ 		border: none;
+ 	}
+ 	button:focus{
+ 		outline: none;
+ 	}
+ 	.menu-notas__items ul li{
+ 		text-align: start;
+ 	}
+ 	.menu-alimentacion__content{
+ 		padding: 0;
+ 	}
+ 	.nav-pills .nav-link{
+ 		padding: .4rem;
+ 	}
+ 	.nav-pills .nav-link .comida-content__menu--title{
+ 		background: #fff;
+ 	}
+ 	.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+ 		background: #fff;
+ 	}
+ 	.nav-pills .nav-link.active .comida-content__menu--title{
+ 		background: #f1f1f1;
+ 	}
+ 	.banner-alimentacion{
+ 		margin: 0;
+ 	}
+ 	.main-alimentacion__content > .tab-content>.active{
+ 		padding-top: 40px;
+ 	}
+ 	.tab-alimentacion{
+ 		position: static;
+ 		padding-top: 30px;
+ 	}
+ 	.nav-tabs{
+ 		border: none;
  	}
 }
 

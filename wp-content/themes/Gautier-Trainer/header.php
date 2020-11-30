@@ -72,7 +72,7 @@
           <a class="nav-link" href="<?php bloginfo('url'); ?>/workout" ><img src="<?php echo get_template_directory_uri();?>/assets/img/icon-dumbell.png" alt="">Entrenamiento</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="<?php bloginfo('url'); ?>/"><img src="<?php echo get_template_directory_uri();?>/assets/img/icon-alimentacion.png" alt="">Alimentación</a>
+          <a class="nav-link" href="<?php bloginfo('url'); ?>/alimentacion"><img src="<?php echo get_template_directory_uri();?>/assets/img/icon-alimentacion.png" alt="">Alimentación</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="<?php bloginfo('url'); ?>/"><img src="<?php echo get_template_directory_uri();?>/assets/img/icon-reports.png" alt="">Reportes</a>
