@@ -31,8 +31,8 @@
 					  			</div>
 					  		</div>
 					  	</div>
-					  	<div class="menu-alimentacion d-none d-lg-block">
-					  		<div class="menu-alimentacion__comida">
+					  	<div class="menu-alimentacion ">
+					  		<div class="menu-alimentacion__comida d-none d-lg-block">
 					  			<div class="menu-alimentacion__comida--content">
 						  			<div class="menu-comida__title">
 						  				<p>Comida 1</p>
@@ -348,7 +348,7 @@
 						  			</div>
 									</div>
 					  		</div>
-					  		<div class="menu-alimentacion__content">
+					  		<div class="menu-alimentacion__content d-none d-lg-block">
 					  			<div class="menu-content__notas">
 					  				<div class="menu-notas__title">
 					  					<img src="<?php echo get_template_directory_uri();?>/assets/img/notes-coach.png" alt="">Notas del coach
@@ -579,8 +579,8 @@
 					  			</div>
 					  		</div>
 					  	</div>
-					  	<div class="menu-alimentacion d-none d-lg-block">
-					  		<div class="menu-alimentacion__comida">
+					  	<div class="menu-alimentacion">
+					  		<div class="menu-alimentacion__comida  d-none d-lg-block">
 					  			<div class="menu-alimentacion__comida--content">
 						  			<div class="menu-comida__title">
 						  				<p>Mañana</p>
@@ -651,7 +651,7 @@
 									</div>
 									</div>
 					  		</div>
-					  		<div class="menu-alimentacion__content">
+					  		<div class="menu-alimentacion__content  d-none d-lg-block">
 					  			<div class="menu-content__notas">
 					  				<div class="menu-notas__title">
 					  					<img src="<?php echo get_template_directory_uri();?>/assets/img/notes-coach.png" alt="">Notas del coach
