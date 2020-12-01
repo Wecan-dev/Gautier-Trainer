@@ -129,7 +129,7 @@
                       </td>
                       <td>
                         <div>
-                          <p>Pro-gress</p>
+                          <p>Gautier Trainer</p>
                         </div>
                       </td>
                       <td>
@@ -152,7 +152,7 @@
                       </td>
                       <td>
                         <div>
-                          <p>Pro-gress</p>
+                          <p>Gautier Trainer</p>
                         </div>
                       </td>
                       <td>
@@ -175,7 +175,7 @@
                       </td>
                       <td>
                         <div>
-                          <p>Pro-gress</p>
+                          <p>Gautier Trainer</p>
                         </div>
                       </td>
                       <td>
@@ -198,7 +198,7 @@
                       </td>
                       <td>
                         <div>
-                          <p>Pro-gress</p>
+                          <p>Gautier Trainer</p>
                         </div>
                       </td>
                       <td>
@@ -235,7 +235,7 @@
                       </td>
                       <td>
                         <div>
-                          <p>Pro-gress</p>
+                          <p>Gautier Trainer</p>
                         </div>
                       </td>
                       <td>
@@ -258,7 +258,7 @@
                       </td>
                       <td>
                         <div>
-                          <p>Pro-gress</p>
+                          <p>Gautier Trainer</p>
                         </div>
                       </td>
                       <td>
@@ -281,7 +281,7 @@
                       </td>
                       <td>
                         <div>
-                          <p>Pro-gress</p>
+                          <p>Gautier Trainer</p>
                         </div>
                       </td>
                       <td>
@@ -304,7 +304,7 @@
                       </td>
                       <td>
                         <div>
-                          <p>Pro-gress</p>
+                          <p>Gautier Trainer</p>
                         </div>
                       </td>
                       <td>
