@@ -30,7 +30,7 @@
                           <div class="reportes-post__btn">
                             <p>Avance de:</p>
                             <select id="disabledSelect" >
-                              <option>Front lever</option>
+                              <option>Mes 1</option>
                               <option>Disabled select</option>
                               <option>Disabled select</option>
                             </select>
@@ -80,7 +80,7 @@
                 <div class="reportes-mensaje__content">
                   <div class="reportes-mensaje__content--item">
                     <div class="reportes-mensaje__content--img">
-                      <img src="<?php echo get_template_directory_uri();?>/assets/img/img-routine.png" alt="">
+                      <img src="<?php echo get_template_directory_uri();?>/assets/img/cliente-video.jpg" alt="">
                     </div>
                     <div class="reportes-mensaje__content--text">
                       <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod, eos, dolores! Dolorem repellat enim temporibus, </p>
@@ -88,7 +88,7 @@
                   </div>
                   <div class="reportes-mensaje__content--item">
                     <div class="reportes-mensaje__content--img">
-                      <img src="<?php echo get_template_directory_uri();?>/assets/img/img-routine.png" alt="">
+                      <img src="<?php echo get_template_directory_uri();?>/assets/img/cliente-video.jpg" alt="">
                     </div>
                     <div class="reportes-mensaje__content--text">
                       <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod, eos, dolores! Dolorem repellat enim temporibus, </p>
@@ -96,7 +96,7 @@
                   </div>
                   <div class="reportes-mensaje__content--item">
                     <div class="reportes-mensaje__content--img">
-                      <img src="<?php echo get_template_directory_uri();?>/assets/img/img-routine.png" alt="">
+                      <img src="<?php echo get_template_directory_uri();?>/assets/img/cliente-video.jpg" alt="">
                     </div>
                     <div class="reportes-mensaje__content--text">
                       <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod, eos, dolores! Dolorem repellat enim temporibus, </p>
@@ -104,7 +104,7 @@
                   </div>
                   <div class="reportes-mensaje__content--item">
                     <div class="reportes-mensaje__content--img">
-                      <img src="<?php echo get_template_directory_uri();?>/assets/img/img-routine.png" alt="">
+                      <img src="<?php echo get_template_directory_uri();?>/assets/img/cliente-video.jpg" alt="">
                     </div>
                     <div class="reportes-mensaje__content--text">
                       <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod, eos, dolores! Dolorem repellat enim temporibus, </p>
@@ -112,7 +112,7 @@
                   </div>
                   <div class="reportes-mensaje__content--item">
                     <div class="reportes-mensaje__content--img">
-                      <img src="<?php echo get_template_directory_uri();?>/assets/img/img-routine.png" alt="">
+                      <img src="<?php echo get_template_directory_uri();?>/assets/img/cliente-video.jpg" alt="">
                     </div>
                     <div class="reportes-mensaje__content--text">
                       <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod, eos, dolores! Dolorem repellat enim temporibus, </p>

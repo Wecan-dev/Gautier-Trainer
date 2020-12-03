@@ -53,7 +53,7 @@
           <div class="pro-videos__content">
             <div class="pro-videos__video">
               <!--<img src="<?php echo get_template_directory_uri();?>/assets/img/plan-workouts.jpg" alt=""> -->
- 				<iframe style="width: 100%;" src="https://player.vimeo.com/video/481477273" width="640" height="329" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+ 				<iframe style="width: 100%;" src="https://player.vimeo.com/video/481477273" width="640" height="100%" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
             </div>
             <div class="pro-videos__description">
               <div class="slider-dashboard__text">
