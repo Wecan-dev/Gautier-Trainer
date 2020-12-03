@@ -4,7 +4,7 @@
 
     <div class="sidebar__content">
       <?php get_template_part('partials/menu/sidebar__content_top'); ?>
-      <div class="sidebar__content--content height-content">
+      <div class="sidebar__content--content">
         <div class="dashboard-content padding-rl">
           <div class="reportes-content">
             <div class="reportes-content__post">
