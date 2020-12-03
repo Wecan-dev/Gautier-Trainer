@@ -52,7 +52,7 @@
 
 <header class="d-flex d-lg-none <?php if(is_page(25)){echo 'header-login';} ?>">
   <nav class="navbar navbar-expand-lg navbar-light">
-    <a class="navbar-brand" href="#"><img src="<?php echo get_template_directory_uri();?>/assets/img/logo-gautier-movil.png" alt=""></a>
+    <a class="navbar-brand" href="<?php bloginfo('url'); ?>/dashboard"><img src="<?php echo get_template_directory_uri();?>/assets/img/logo-gautier-movil.png" alt=""></a>
     <div class="title-responsive">
       <p>Dashboard</p>
     </div>
@@ -75,7 +75,7 @@
           <a class="nav-link" href="<?php bloginfo('url'); ?>/alimentacion"><img src="<?php echo get_template_directory_uri();?>/assets/img/icon-alimentacion.png" alt="">Alimentación</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="<?php bloginfo('url'); ?>/"><img src="<?php echo get_template_directory_uri();?>/assets/img/icon-reports.png" alt="">Reportes</a>
+          <a class="nav-link" href="<?php bloginfo('url'); ?>/reportes"><img src="<?php echo get_template_directory_uri();?>/assets/img/icon-reports.png" alt="">Reportes</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="<?php bloginfo('url'); ?>/"><img src="<?php echo get_template_directory_uri();?>/assets/img/icon-calendar.png" alt="">Calendario</a>
@@ -86,7 +86,7 @@
           <a class="nav-link" href="<?php bloginfo('url'); ?>/pro-videos"><img src="<?php echo get_template_directory_uri();?>/assets/img/icon-video.png" alt="">Videos</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="<?php bloginfo('url'); ?>/"><img src="<?php echo get_template_directory_uri();?>/assets/img/icon-library.png" alt="">Exercises List</a>
+          <a class="nav-link" href="<?php bloginfo('url'); ?>/lista-de-ejercicios"><img src="<?php echo get_template_directory_uri();?>/assets/img/icon-library.png" alt="">Exercises List</a>
         </li>
       </ul>
       <div class="options-navbar">

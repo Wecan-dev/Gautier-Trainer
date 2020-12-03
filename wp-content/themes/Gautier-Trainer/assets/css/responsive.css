@@ -1,3 +1,5 @@
+
+
 @media (min-width: 0px) and (max-width: 767px){
 	.padding-rl{
 		padding: 0 1rem !important;
@@ -462,7 +464,104 @@
  		border: none;
  	}
 
+ 		
+ 	/*-- Reportes --*/
 
+
+ 	.reportes-content{
+ 		grid-template-columns: 100%;
+ 		padding: 2rem 0;
+ 	}
+ 	.height-content{
+ 		height: auto;
+ 	}
+ 	.reportes-post__btn{
+ 		width: 100%;
+ 		margin-bottom: 1rem;
+ 	}
+ 	.reportes-post__btn p{
+ 		display: none;
+ 	}
+ 	.reportes-post__send{
+ 		width: 100%;
+ 		margin-bottom: 1rem;
+ 	}
+ 	#collapseOne > div{
+ 		padding: 0;
+ 	}
+ 	.reportes-post-botones{
+ 		flex-direction: column;
+ 	}
+ 	.reportes-post__btn select{
+ 		margin-right: 10px;
+ 		margin-left: 0;
+ 	}
+ 	.reportes-post__btn--adjuntar{
+ 		margin-left: 10px;
+ 	}
+
+
+
+ 	/*lista de ejercicios*/
+
+
+ 	.titulo-lista{
+ 		padding: 30px 0;
+ 	}
+ 	.lista-content{
+ 		grid-template-columns: 100%;
+ 	}
+ 	.lista-content__filter{
+ 		padding: 0 1rem ;
+ 	}
+ 	.lista-content .lista-content__products .slider-dashboard__img{
+ 		width: 100%;
+ 	}
+ 	.lista-content .lista-content__products .slider-dashboard__content{
+ 		width: 100%;
+ 		margin-bottom: 10px;
+ 	}
+ 	.MenuContainer p{
+ 		font-size: 16px;
+		font-weight: bold;
+		font-stretch: normal;
+		font-style: normal;
+		line-height: normal;
+		letter-spacing: normal;
+		color: #ffffff;
+		text-transform: uppercase;
+ 	}
+ 	.lista-filter__category--title p{
+ 		color: #000;
+ 	}
+ 	.lista-canvas{
+ 		padding-bottom: 40px;
+ 	}
+ 	.lista-filter__resultado--text p{
+ 		font-size: 12.8px;
+		font-weight: normal;
+		font-stretch: normal;
+		font-style: normal;
+		line-height: normal;
+		letter-spacing: normal;
+		color: #000000;
+		padding-top: 12px;
+		text-transform: capitalize;
+ 	}
+
+
+
+
+
+
+}
+@media (min-width: 0px) and (max-width: 350px){
+	.navbar.expan::after{
+		left: 41%;
+	}
+	.navbar.expan::before{
+		right: 41%;
+	}
 }
 @media (min-width: 420px) and (max-width: 767px){
 	.navbar.expan::after{
@@ -869,6 +968,10 @@
  	.nav-tabs{
  		border: none;
  	}
+
+
+
+
 }
 
 
