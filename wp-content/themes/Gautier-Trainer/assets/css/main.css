@@ -1812,7 +1812,6 @@ body > section > div > div > div.sidebar__content--top.sidebar__routine.d-none.d
   margin-left: 200px;
   transition: 0.5s ease;
   z-index: 3;
-  border-radius: 15px 0 0 15px;
   position: relative;
   background: #fcfcfc;
 }
