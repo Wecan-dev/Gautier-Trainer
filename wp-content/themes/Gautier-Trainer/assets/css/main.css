@@ -1809,7 +1809,7 @@ body > section > div > div > div.sidebar__content--top.sidebar__routine.d-none.d
 }
 
 .sidebar__navbar.active ~ .sidebar__content {
-  margin-left: 200px;
+  margin-left: 212px;
   transition: 0.5s ease;
   z-index: 3;
   position: relative;
