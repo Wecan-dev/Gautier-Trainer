@@ -552,6 +552,43 @@
 
 
 
+ 	/*-- Perfil --*/
+
+ 	.menu-perfil{
+ 		grid-template-columns: 100%;
+ 	}
+ 	.menu-perfil__content{
+ 		padding: 30px;
+ 		margin: 0;
+ 	}
+ 	.perfil-content__datos--content p{
+ 		width: 140px;
+ 	}
+ 	.menu-perfil__options{
+ 		padding: 30px;
+ 	}
+ 	.banner-perfil{
+ 		flex-direction: column;
+ 		padding: 30px 0;
+ 	}
+ 	.banner-perfil__title > div{
+ 		flex-direction: column;
+ 		text-align: center;
+ 		align-items: center;
+ 		padding-top: 20px;
+ 	}
+ 	.banner-perfil__text{
+ 		padding: 0;
+ 	}
+ 	.banner-perfil__title .banner-alimentacion__text--etiqueta{
+ 		width: max-content;
+ 		margin: 20px 0;
+ 	}
+ 	.perfil-content__datos--content{
+ 		align-items: center;
+ 	}
+
+
 
 
 }
@@ -572,6 +609,9 @@
 	}
 	.slider-workout__content--item{
 		width: 340px;
+	}
+	.perfil-content__datos--content p{
+		width: 200px;
 	}
 }
 
@@ -967,6 +1007,15 @@
  	}
  	.nav-tabs{
  		border: none;
+ 	}
+
+
+
+ 	/*-- Perfil --*/
+
+
+ 	.banner-perfil{
+ 		padding: 30px;
  	}
 
 
