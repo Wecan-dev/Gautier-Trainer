@@ -18,8 +18,8 @@
                   Samuel95 <i class="fa fa-angle-down" aria-hidden="true"></i>
                 </button>
                 <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-                  <a class="dropdown-item" href="#">Mi cuenta</a>
-                  <a class="dropdown-item" href="#">Cerrar sesión</a>
+                  <a class="dropdown-item" href="<?php bloginfo('url'); ?>/perfil">Mi cuenta</a>
+                  <a class="dropdown-item" href="<?php echo wp_logout_url( home_url()); ?>">Cerrar sesión</a>
                 </div>
               </div>
             </div>  

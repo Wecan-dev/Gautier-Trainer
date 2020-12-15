@@ -94,7 +94,7 @@
           <div class="user-sidebar__top--img">
             <img src="#" alt=""> 
           </div>
-          <p>Samuel56</p>
+          <a href="<?php bloginfo('url'); ?>/perfil">Samuel56</a>
         </div>
         <div class="options-navbar__soport">
           <div class="btn-soporte">

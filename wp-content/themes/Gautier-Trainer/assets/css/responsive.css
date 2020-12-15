@@ -184,8 +184,15 @@
 		letter-spacing: normal;
 		color: #ffffff;
 	}
-	.options-navbar__user p{
+	.options-navbar__user a{
 		margin-left: .5rem;
+		font-weight: bold;
+		font-stretch: normal;
+		font-style: normal;
+		line-height: normal;
+		letter-spacing: normal;
+		color: #ffffff;
+		font-size: 16px;
 	}
 	.dashboard-content__video--video{
 		height: 400px;
@@ -552,6 +559,43 @@
 
 
 
+ 	/*-- Perfil --*/
+
+ 	.menu-perfil{
+ 		grid-template-columns: 100%;
+ 	}
+ 	.menu-perfil__content{
+ 		padding: 30px;
+ 		margin: 0;
+ 	}
+ 	.perfil-content__datos--content p{
+ 		width: 140px;
+ 	}
+ 	.menu-perfil__options{
+ 		padding: 30px;
+ 	}
+ 	.banner-perfil{
+ 		flex-direction: column;
+ 		padding: 30px 0;
+ 	}
+ 	.banner-perfil__title > div{
+ 		flex-direction: column;
+ 		text-align: center;
+ 		align-items: center;
+ 		padding-top: 20px;
+ 	}
+ 	.banner-perfil__text{
+ 		padding: 0;
+ 	}
+ 	.banner-perfil__title .banner-alimentacion__text--etiqueta{
+ 		width: max-content;
+ 		margin: 20px 0;
+ 	}
+ 	.perfil-content__datos--content{
+ 		align-items: center;
+ 	}
+
+
 
 
 }
@@ -572,6 +616,9 @@
 	}
 	.slider-workout__content--item{
 		width: 340px;
+	}
+	.perfil-content__datos--content p{
+		width: 200px;
 	}
 }
 
@@ -971,6 +1018,30 @@
 
 
 
+ 	/*-- Perfil --*/
+
+
+ 	.banner-perfil{
+ 		padding: 30px;
+ 	}
+
+
+ 	/*-- Lista de ejercicio --*/
+
+
+ 	.lista-content__products{
+ 		justify-content: space-evenly;
+ 	}
+ 	.lista-content{
+ 		grid-template-columns: 100%;
+ 		padding-top: 2rem;
+ 	}
+ 	.MenuIcon p{
+ 		color: #fff;
+ 	}
+ 	.lista-content__filter{
+ 		padding:  0 1.5rem;
+ 	}
 
 }
 
