@@ -184,8 +184,15 @@
 		letter-spacing: normal;
 		color: #ffffff;
 	}
-	.options-navbar__user p{
+	.options-navbar__user a{
 		margin-left: .5rem;
+		font-weight: bold;
+		font-stretch: normal;
+		font-style: normal;
+		line-height: normal;
+		letter-spacing: normal;
+		color: #ffffff;
+		font-size: 16px;
 	}
 	.dashboard-content__video--video{
 		height: 400px;
@@ -1019,7 +1026,22 @@
  	}
 
 
+ 	/*-- Lista de ejercicio --*/
 
+
+ 	.lista-content__products{
+ 		justify-content: space-evenly;
+ 	}
+ 	.lista-content{
+ 		grid-template-columns: 100%;
+ 		padding-top: 2rem;
+ 	}
+ 	.MenuIcon p{
+ 		color: #fff;
+ 	}
+ 	.lista-content__filter{
+ 		padding:  0 1.5rem;
+ 	}
 
 }
 
